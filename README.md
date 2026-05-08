@@ -91,7 +91,9 @@ Workshops • Hackathons
 Feb–Mar 2026  
 
 PRs • Issues • Reviews  
-Real-world code  
+Real-world code 
+
+*Top 25 contributor*
 
 </td>
 
