@@ -56,6 +56,7 @@ const nandini = {
 
 </code></pre>
 
+
   </td>
     <td width="50%" align="center" valign="top">
       <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" />
@@ -68,6 +69,38 @@ const nandini = {
 </p>
 
 ---
+<h2 align="center">📂 Projects</h2>
+
+<div align="center">
+
+  <!-- AutoBotX -->
+  <img src="https://skillicons.dev/icons?i=python,opencv" width="80" alt="AutoBotX"/>
+  <h3>AutoBotX</h3>
+  <p>
+    Computer-vision automation tool using Python, OpenCV & MediaPipe.<br>
+    Built for accessibility — won 🥈 2nd place in IoT Hackathon.
+  </p>
+  <br>
+
+  <!-- PHENOX -->
+  <img src="https://skillicons.dev/icons?i=react,flask" width="80" alt="PHENOX"/>
+  <h3>PHENOX</h3>
+  <p>
+    Modular full-stack web app with responsive UI & REST APIs.<br>
+    Real-time data processing with React.js + Flask.
+  </p>
+  <br>
+
+  <!-- AutoAlign -->
+  <img src="https://skillicons.dev/icons?i=github" width="80" alt="AutoAlign"/>
+  <h3>AutoAlign</h3>
+  <p>
+    Recognized by Commudle as a trending project.<br>
+    Boosted community visibility & developer engagement.
+  </p>
+
+</div>
+
 
 <h2 align="center">💼 Experience</h2>
 
