@@ -158,31 +158,80 @@ Promoted coding • Student engagement • Campus events
 </td>
 </tr>
 </table>
+<h2 align="center">⚙️ Tech Stack</h2>
 
-  <strong>⚙️ Tech Stack</strong>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,sql" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
-<br>
-<br>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+<p align="center">
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,netlify,postman,opencv" />
+</p>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT%20Hackathon-2nd%20Place-ff9800?style=for-the-badge&logo=medal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apertre%203.0-Top%2025%20Contributor-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Commudle-Trending%20Project%20Recognition-9A4BFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor%20(Bindu%20%2B%20Others)-6a5acd?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🥈 IoT Hackathon  
+**2nd Place**  
+Developed AutoBotX — computer vision + IoT solution for accessibility  
+
+</td>
+
+<td align="center">
+
+### 🌐 Apertre 3.0  
+**Top 25 Contributor**  
+Consistent PRs, issue resolutions, and open-source collaboration  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🚀 Commudle  
+**Trending Project Recognition**  
+AutoAlign project gained visibility & engagement in the community  
+
+</td>
+
+<td align="center">
+
+### 🤝 Open Source  
+**Contributor**  
+Collaborated on projects like Bindu • Real-world workflows • Distributed teams  
+
+</td>
+</tr>
+</table>
+
 <!-- ENDING -->
 <p align="center">
   <img src="https://media.tenor.com/dR8VeofA1RoAAAAm/sanrio-cute.webp" alt="cute sanrio" />
