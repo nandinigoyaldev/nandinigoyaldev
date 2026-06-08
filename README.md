@@ -42,23 +42,18 @@
 <pre><code>// About Me
 const nandini = {
   role: "Full Stack Developer",
-  education: {
-    BCA: "IGNOU (2024–2027)"
-  },
+  education: "BCA @ IGNOU (2024–2027)",
   work: [
     "Founder @ CDN IGNOU",
     "Open Source Contributor (Apertre 3.0)",
     "Campus Ambassador @ GeeksforGeeks"
   ],
-  skills: ["React", "JavaScript", "Flask", "APIs"],
-  interests: [
-    "Building real-world web applications",
-    "Exploring IoT + software integration",
-    "Open source and community building"
-  ],
-  currentFocus: "Full stack + IoT projects",
+  skills: ["React", "JavaScript", "Flask", "Node.js", "MongoDB", "APIs"],
+  interests: ["Web apps", "IoT + software", "Open source"],
+  currentFocus: "Full stack & IoT projects",
   motto: "Build things that matter"
 };
+
 </code></pre>
 
   </td>
