@@ -232,6 +232,35 @@ Collaborated on projects like Bindu • Real-world workflows • Distributed tea
 </tr>
 </table>
 
+<h2 align="center">📜 Certifications</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60" alt="Graduation"/>
+  <br><b>Master Diploma in Computer Engineering (MDCE)</b><br>
+  IICS India • 2024–2027
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60" alt="Tally"/>
+  <br><b>Tally Office Automation</b><br>
+  Practical accounting & automation skills
+</p>
+
+---
+
+<h2 align="center">🌐 Languages</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHV0z8E3bJdC1fC/giphy.gif" width="60" alt="English"/>
+  <br><b>English</b> — Native/Bilingual
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60" alt="Hindi"/>
+  <br><b>Hindi</b> — Native/Bilingual
+</p>
+
+
 <!-- ENDING -->
 <p align="center">
   <img src="https://media.tenor.com/dR8VeofA1RoAAAAm/sanrio-cute.webp" alt="cute sanrio" />
