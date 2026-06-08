@@ -72,66 +72,93 @@ const nandini = {
 <h2 align="center">💼 Experience</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CDN%20IGNOU-Community%20Lead-9A4BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Apertre%203.0-Open%20Source-6a5acd?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Campus%20Ambassador-4b0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CDN%20IGNOU-Founder%20%26%20Lead-9A4BFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Project%20Admin%20%26%20Contributor-1DA1F2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YouTube-Content%20Creator-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Work2Hire-Program%20Manager-2F8D46?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AlgoAcquisition-SDR-6a5acd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Connect-Host%20%26%20Lead-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Ambassador-2F8D46?style=for-the-badge"/>
 </p>
 
 <table align="center">
 <tr>
-<td width="33%" align="center">
+<td align="center">
 
 ### 🚀 CDN IGNOU  
-**Founder**  
+**Founder & Technical Lead**  
 2026 – Present  
 
-Built & led tech community  
-Workshops • Hackathons  
+Built student tech community • Workshops • Hackathons • Mentoring  
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
-### 🌐 Apertre  
-**Open Source**  
-Feb–Mar 2026  
+### 🌐 Open Source Programs  
+**Project Admin & Contributor**  
+2026 – Present  
 
-PRs • Issues • Reviews  
-Real-world code 
-
-*Top 25 contributor*
+Managed contributors • PRs • Reviews • Top 25 in Apertre 3.0  
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
-### 🎓 GFG  
-**Ambassador**  
+### 🎥 YouTube (Self Taught Bob)  
+**Content Creator & Mentor**  
 2026 – Present  
 
-Promoted coding  
-Student engagement  
+Tech tutorials • Project docs • Developer mentorship  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 👥 Work2Hire  
+**Program Manager Lead**  
+2026 – Present  
+
+Campus ambassador recruitment • Outreach campaigns • Webinars  
+
+</td>
+
+<td align="center">
+
+### 💼 AlgoAcquisition  
+**Sales Development Rep**  
+2026 – Present  
+
+AI-driven outreach • Pipeline generation • 3–4x higher responses  
+
+</td>
+
+<td align="center">
+
+### 🎤 Open Source Connect  
+**Host & Management Lead**  
+Jan – Feb 2026  
+
+Developer meetups • Event logistics • Career talks  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎓 GeeksforGeeks  
+**Campus Ambassador**  
+2026 – Present  
+
+Promoted coding • Student engagement • Campus events  
 
 </td>
 </tr>
 </table>
 
----
-
-<h2 align="center">📜 Certifications</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IICS-MDCE-9A4BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tally-Office%20Automation-6a5acd?style=for-the-badge"/>
-</p>
-
-<p align="center">
-Currently pursuing advanced skills in full stack and IoT development
-</p>
-
----
-
-<p align="center">
   <strong>⚙️ Tech Stack</strong>
 </p>
 
