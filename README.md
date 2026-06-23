@@ -1,10 +1,16 @@
 <!-- THEME: SYNTHWAVE HERO -->
 <div align="center">
+  <!-- Visitor Badge -->
+  <a href="https://github.com/nandinigoyaldev"><img src="https://komarev.com/ghpvc/?username=nandinigoyaldev&label=Profile%20Views&color=E53888&style=flat-square" alt="Profile Views"/></a>
+  
+  <br><br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D0B5A,100:E53888&text=Nandini%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Community%20Builder&descAlignY=55&descAlign=50" alt="Hero Banner"/>
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&lines=Building+impactful+software...;Turning+coffee+into+code+☕;Open+Source+Advocate+🌍" alt="Typing Text" />
+  <!-- Centered typing text using center=true -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&center=true&lines=Building+impactful+software...;Turning+coffee+into+code+☕;Open+Source+Advocate+🌍" alt="Typing Text" />
   
   <br><br>
 
@@ -66,11 +72,31 @@
 
 <br>
 
-<!-- THEME: DARK MODERN STATS -->
+<!-- THEME: DARK MODERN STATS & TROPHIES -->
 <div align="center">
   <h2 align="center">📈 GitHub Radar</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinigoyaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigoyaldev&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
+  
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/nandinigoyaldev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandinigoyaldev&theme=tokyo-night&bg_color=1A1B27&hide_border=true" alt="GitHub Activity Graph" width="90%" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Stats & Streak -->
+  <a href="https://github.com/nandinigoyaldev">
+    <img src="https://github-readme-stats.vercel.app/api?username=nandinigoyaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/nandinigoyaldev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigoyaldev&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/nandinigoyaldev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinigoyaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
