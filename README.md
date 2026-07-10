@@ -1,194 +1,188 @@
-<!-- THEME: CYBERPUNK / SYNTHWAVE GLOW -->
+<!-- THEME: SYNTHWAVE HERO -->
 <div align="center">
   <!-- Visitor Badge -->
-  <a href="https://github.com/nandinigoyaldev">
-    <img src="https://komarev.com/ghpvc/?username=nandinigoyaldev&label=Profile%20Views&color=E53888&style=flat-square" alt="Profile Views"/>
-  </a>
+  <a href="https://github.com/nandinigoyaldev"><img src="https://komarev.com/ghpvc/?username=nandinigoyaldev&label=Profile%20Views&color=E53888&style=flat-square" alt="Profile Views"/></a>
   
   <br><br>
 
-  <!-- Glowing Capsule Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D0B5A,100:E53888&text=Nandini%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Community%20Builder&descAlignY=55&descAlign=50" alt="Hero Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D0B5A,100:E53888&text=Nandini%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Community%20Builder&descAlignY=55&descAlign=50" alt="Hero Banner"/>
   
   <br>
 
-  <!-- Fully URL-Encoded typing text using demolab.com -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&center=true&lines=Building+impactful+software...;Turning+coffee+into+code+%E2%98%95;Open+Source+Advocate+%F0%9F%8C%8D;Founder+%40+CDN+IGNOU+%F0%9F%9A%80" alt="Typing Text" />
+  <!-- Centered typing text using center=true -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&center=true&lines=Building+impactful+software...;Turning+coffee+into+code+☕;Open+Source+Advocate+🌍" alt="Typing Text" />
   
   <br><br>
 
-  <!-- Connected Badges -->
-  <a href="https://linkedin.com/in/nandinigoyaldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/nandinigoyaldev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://github.com/nandinigoyaldev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://nandini-goyal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://youtube.com/@nandinigoyaldev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <!-- Clean minimalist socials -->
+  <a href="https://linkedin.com/in/nandinigoyaldev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/nandinigoyaldev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/nandinigoyaldev"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://nandini-goyal.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://youtube.com/@nandinigoyaldev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="80%" />
 </p>
 
-## 👾 Who Am I?
-
-Hello, World! I'm **Nandini Goyal**, a Full Stack Developer and BCA student at IGNOU. I love merging software engineering with Internet of Things (IoT) hardware, designing real-time integrations, and building developer ecosystems. 
-
-📄 You can view and download my comprehensive CV/Resume from the [resume directory](./assets/resume/Nandini_Goyal_Resume.pdf)!
-
-### 🌟 What I Do:
-- 🚀 **Community Building**: Founder & Tech Lead of **CDN IGNOU**, helping students dive into coding, open-source, and tech events.
-- 💻 **Open Source Advocacy**: Admin & contributor in major programs (Top 25 contributor in Apertre 3.0).
-- 🐍 **Automation & Vision**: Crafting tools using Python and OpenCV (like AutoBotX, which won 2nd place in the IoT Hackathon).
-- 🎥 **Content & Mentorship**: Sharing tutorials on full-stack development, Python, and developer guides on my YouTube channel.
+<!-- THEME: RETRO HACKER / CODE ENVIRONMENT -->
+<table width="100%" align="center">
+  <tr>
+    <td width="55%">
+      <h2 align="center">👾 <code>whoami</code></h2>
+      <blockquote>
+        "Build things that matter."
+      </blockquote>
+      <p>
+        I'm a Full Stack Developer and BCA student at IGNOU. I love blending software with IoT, organizing tech communities (Founder @ CDN IGNOU), and contributing to open source. You can download my full resume from the <a href="./assets/resume/Nandini_Goyal_Resume.pdf">assets folder</a>!
+      </p>
+<pre><code>const profile = {
+  status: "Coding & Building",
+  tech: ["React", "Flask", "Node.js"],
+  passion: "Open Source",
+  caffeine_level: "High ☕"
+};
+</code></pre>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" style="border-radius:15px;"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="./assets/images/coder.gif" width="220" alt="Coder Girl" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
-### 🔮 Player Stats:
-```json
-{
-  "class": "Full Stack Engineer & Community Leader 🛡️",
-  "caffeine_level": "High (Turning coffee into code) ☕",
-  "weapons_of_choice": ["React.js", "Python / Flask", "C++", "OpenCV"],
-  "current_quest": "Building student tech communities & scaling IoT automation"
-}
-```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3" width="100%" />
-</p>
-
-<!-- THEME: TECH TOOLKIT PILLS -->
-<h2 align="center">⚡ Tech Toolkit</h2>
+<!-- THEME: FLOATING GLASS / SKILL ISLANDS -->
+<h2 align="center">✨ Tech Toolkit</h2>
 <div align="center">
-  <p><i>The weapons of choice for digital creations</i></p>
-
-  <h4>🌐 Frontend Web</h4>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" /><br><br>
-
-  <h4>⚙️ Backend, Systems & Data</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,cpp,sql,mongodb,postgres&theme=dark" /><br><br>
-
-  <h4>🛠️ DevOps, Environments & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,netlify,postman,opencv&theme=dark" />
+  <i>Technologies I use to bring ideas to life</i><br><br>
+  
+  <b>🌐 Frontend Ecosystem</b><br>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=light" /><br><br>
+  
+  <b>⚙️ Backend & Data</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,cpp,sql,mongodb,postgres&theme=light" /><br><br>
+  
+  <b>🛠️ Tools & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,netlify,postman,opencv&theme=light" />
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3" width="100%" />
-</p>
-
-<!-- THEME: DARK MODERN STATS GRID -->
-<h2 align="center">📊 GitHub Radar</h2>
+<!-- THEME: DARK MODERN STATS & TROPHIES -->
 <div align="center">
+  <h2 align="center">📈 GitHub Radar</h2>
+  
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/nandinigoyaldev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandinigoyaldev&theme=tokyo-night&bg_color=1A1B27&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandinigoyaldev&theme=tokyo-night&bg_color=1A1B27&hide_border=true" alt="GitHub Activity Graph" width="90%" />
   </a>
   
   <br><br>
   
-  <!-- Stats and Streak aligned side-by-side using height matching -->
-  <p align="center">
-    <a href="https://github.com/nandinigoyaldev">
-      <img src="https://github-stats-extended.vercel.app/api?username=nandinigoyaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" height="175"/>
-    </a>
-    <a href="https://github.com/nandinigoyaldev">
-      <img src="https://streak-stats.demolab.com/?user=nandinigoyaldev&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" height="175"/>
-    </a>
-  </p>
+  <!-- Stats & Streak -->
+    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandinigoyaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27)](https://github.com/nandinigoyaldev)
+  <a href="https://github.com/nandinigoyaldev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigoyaldev&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
+  </a>
   
-  <br>
-
+  <br><br>
+  
   <!-- Top Languages -->
   <a href="https://github.com/nandinigoyaldev">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nandinigoyaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinigoyaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages" />
   </a>
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3" width="100%" />
-</p>
-
-<!-- THEME: ARCADE PROJECT CARDS (GITHUB NATIVE FORMAT) -->
+<!-- THEME: ARCADE PROJECT CARDS -->
 <h2 align="center">🎮 Featured Quests (Projects)</h2>
-
-| Project | Tech Stack | Achievement / Badge |
-| :--- | :--- | :--- |
-| **🤖 AutoBotX**<br>Computer-vision automation tool built for accessibility and visual analysis. | `Python` `OpenCV` | `🏆 2nd Place IoT Hackathon` |
-| **🌐 PHENOX**<br>Modular full-stack web app with responsive interfaces and real-time REST API integration. | `React` `Flask` | `⚡ Real-time Data processing` |
-| **⚙️ AutoAlign**<br>Community engagement and analytics tool designed for open-source project owners. | `Git` `GitHub` | `🔥 Trending on Commudle` |
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="33%" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+      <h3 style="color: #58a6ff;">🤖 AutoBotX</h3>
+      <img src="https://skillicons.dev/icons?i=python,opencv" width="50"/>
+      <p>Computer-vision automation tool built for accessibility.<br><b>🥈 2nd Place IoT Hackathon</b></p>
+    </td>
+    <td align="center" width="33%" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+      <h3 style="color: #3fb950;">🌐 PHENOX</h3>
+      <img src="https://skillicons.dev/icons?i=react,flask" width="50"/>
+      <p>Modular full-stack web app with responsive UI & REST APIs.<br><b>Real-time data processing</b></p>
+    </td>
+    <td align="center" width="33%" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+      <h3 style="color: #bc8cff;">⚙️ AutoAlign</h3>
+      <img src="https://skillicons.dev/icons?i=github,git" width="50"/>
+      <p>Community visibility and developer engagement tool.<br><b>Trending on Commudle</b></p>
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3" width="100%" />
-</p>
 
 <!-- THEME: INTERACTIVE TIMELINE / TERMINAL -->
 <h2 align="center">📜 Lore & Experience</h2>
-<div align="center" style="max-width: 800px; margin: 0 auto; text-align: left;">
-  <details open>
-    <summary style="font-size: 16px; font-weight: bold; cursor: pointer; color: #E53888; padding: 5px;">🌱 2026 - Present: Community Building</summary>
-    <div style="padding-left: 20px; border-left: 2px solid #E53888; margin: 10px 0 15px 10px;">
-      <ul>
-        <li><b>Founder & Tech Lead @ CDN IGNOU:</b> Built a thriving student tech community from scratch, coordinating developer bootcamps and workshops.</li>
-        <li><b>Host & Management Lead @ Open Source Connect:</b> Spearheaded the logistics and coordination for large-scale developer meetups and events.</li>
-        <li><b>Campus Ambassador @ GeeksforGeeks:</b> Empowering and mentoring campus peers with programming fundamentals and competitive coding guides.</li>
-      </ul>
-    </div>
+<div align="center">
+  <details>
+    <summary><b>🌱 2026 - Present: Community Building</b></summary>
+    <br>
+    <ul>
+      <li><b>Founder & Tech Lead @ CDN IGNOU:</b> Built a thriving student tech community.</li>
+      <li><b>Host & Management Lead @ Open Source Connect:</b> Organized major developer meetups.</li>
+      <li><b>Campus Ambassador @ GeeksforGeeks:</b> Engaging students with code.</li>
+    </ul>
   </details>
   <details>
-    <summary style="font-size: 16px; font-weight: bold; cursor: pointer; color: #E53888; padding: 5px;">💻 2026 - Present: Open Source & Work</summary>
-    <div style="padding-left: 20px; border-left: 2px solid #E53888; margin: 10px 0 15px 10px;">
-      <ul>
-        <li><b>Project Admin & Contributor @ Open Source Programs:</b> Recognized in the Top 25 contributors list in Apertre 3.0.</li>
-        <li><b>Program Manager Lead @ Work2Hire:</b> Orchestrated regional outreach strategies, speaker coordination, and webinar marketing.</li>
-        <li><b>Sales Development Rep @ AlgoAcquisition:</b> Leveraged smart AI workflows for automated prospect pipelines and CRM sync.</li>
-      </ul>
-    </div>
+    <summary><b>💻 2026 - Present: Open Source & Work</b></summary>
+    <br>
+    <ul>
+      <li><b>Project Admin & Contributor @ Open Source Programs:</b> Top 25 contributor in Apertre 3.0.</li>
+      <li><b>Program Manager Lead @ Work2Hire:</b> Outreach and webinar management.</li>
+      <li><b>Sales Development Rep @ AlgoAcquisition:</b> AI-driven pipeline generation.</li>
+    </ul>
   </details>
   <details>
-    <summary style="font-size: 16px; font-weight: bold; cursor: pointer; color: #E53888; padding: 5px;">🎥 Content Creation</summary>
-    <div style="padding-left: 20px; border-left: 2px solid #E53888; margin: 10px 0 15px 10px;">
-      <ul>
-        <li><b>Content Creator @ YouTube (Nandini):</b> Designing tutorials on full-stack development, Python script automation, and community building insights.</li>
-      </ul>
-    </div>
+    <summary><b>🎥 Content Creation</b></summary>
+    <br>
+    <ul>
+      <li><b>Content Creator @ YouTube (Nandini):</b> Mentoring developers and sharing tech tutorials.</li>
+    </ul>
   </details>
 </div>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="50%" />
+</p>
+
+<!-- THEME: KAWAII STICKERS & AWARDS -->
+<h2 align="center">🌟 Loot & Badges (Achievements)</h2>
+<table align="center" width="90%">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3oz8xAFtjouKvtCE7u/giphy.gif" width="70"/><br>
+      <b>IoT Hackathon</b><br>🥈 2nd Place
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="70"/><br>
+      <b>Apertre 3.0</b><br>Top 25 Contributor
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70"/><br>
+      <b>MDCE Diploma</b><br>IICS India
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="70"/><br>
+      <b>Commudle</b><br>Trending Project
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=3" width="100%" />
-</p>
-
-<!-- THEME: STICKERS & AWARDS -->
-<h2 align="center">🌟 Loot & Badges (Achievements)</h2>
 <div align="center">
-  <p>
-    <img src="./assets/images/iot.gif" width="120" alt="IoT Hackathon Winner" /> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/images/apertre.gif" width="120" alt="Apertre 3.0 Contributor" /> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/images/diploma.gif" width="120" alt="IICS India Diploma" /> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/images/commudle.gif" width="120" alt="Commudle Trending" />
-  </p>
-  <p>
-    🏆 <b>IoT Hackathon 2nd Place</b> | 🎖️ <b>Apertre 3.0 Top 25</b> | 🎓 <b>IICS MDCE Diploma</b> | 🔥 <b>Commudle Trending</b>
-  </p>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://media.tenor.com/dR8VeofA1RoAAAAm/sanrio-cute.webp" width="120" style="margin-bottom: 10px;"/>
-  <br>
-  <i>"Writing code that makes a difference."</i>
-  <br><br>
-  
-  <code>🚀 system.log: Let's build something extraordinary together!</code>
+  <i>"Writing code that makes a difference."</i><br><br>
+  <img src="https://media.tenor.com/dR8VeofA1RoAAAAm/sanrio-cute.webp" width="120" />
 </div>
