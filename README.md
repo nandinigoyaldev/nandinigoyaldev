@@ -91,13 +91,6 @@
   
   <br><br>
   
-  <!-- Top Languages -->
-  <a href="https://github.com/nandinigoyaldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinigoyaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
 
 <!-- THEME: ARCADE PROJECT CARDS -->
 <h2 align="center">🎮 Featured Quests (Projects)</h2>
