@@ -111,7 +111,7 @@
     <tr style="border: none;">
       <td align="center" width="50%" style="border: none; padding: 5px;">
         <a href="https://github.com/nandinigoyaldev">
-          <img src="https://github-readme-stats.vercel.app/api?username=nandinigoyaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" width="100%"/>
+          <img src="https://github-stats-extended.vercel.app/api?username=nandinigoyaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub Stats" width="100%"/>
         </a>
       </td>
       <td align="center" width="50%" style="border: none; padding: 5px;">
@@ -126,7 +126,7 @@
 
   <!-- Top Languages -->
   <a href="https://github.com/nandinigoyaldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandinigoyaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages" width="60%"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nandinigoyaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top Languages" width="60%"/>
   </a>
 </div>
 
