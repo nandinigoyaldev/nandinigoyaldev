@@ -84,7 +84,7 @@
   <br><br>
   
   <!-- Stats & Streak -->
-    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandinigoyaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27)](https://github.com/nandinigoyaldev)
+   
   <a href="https://github.com/nandinigoyaldev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigoyaldev&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
   </a>
