@@ -1,25 +1,26 @@
-<!-- THEME: SYNTHWAVE HERO -->
+<!-- THEME: SYNTHWAVE OS HERO -->
 <div align="center">
-  <!-- Visitor Badge -->
-  <a href="https://github.com/nandinigoyaldev"><img src="https://komarev.com/ghpvc/?username=nandinigoyaldev&label=Profile%20Views&color=E53888&style=flat-square" alt="Profile Views"/></a>
-  
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2D0B5A,100:E53888&text=Nandini%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Community%20Builder&descAlignY=55&descAlign=50" alt="Hero Banner"/>
-  
-  <br>
-
-  <!-- Centered typing text using center=true -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&center=true&lines=Building+impactful+software...;Turning+coffee+into+code+☕;Open+Source+Advocate+🌍" alt="Typing Text" />
-  
-  <br><br>
-
-  <!-- Clean minimalist socials -->
-  <a href="https://linkedin.com/in/nandinigoyaldev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/nandinigoyaldev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/nandinigoyaldev"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://nandini-goyal.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://youtube.com/@nandinigoyaldev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<table width="100%">
+<tr>
+<td bgcolor="#2D0B5A" align="left">
+&nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;&nbsp;<b>NANDINI_GOYAL_OS v2.0.exe</b>
+</td>
+<td bgcolor="#2D0B5A" align="right">
+<a href="https://github.com/nandinigoyaldev"><img src="https://komarev.com/ghpvc/?username=nandinigoyaldev&label=Active%20Sessions&color=E53888&style=flat-square" height="20" alt="Profile Views"/></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" bgcolor="#0d1117">
+<br>
+<h1>⚡ NANDINI GOYAL ⚡</h1>
+<h3>Full Stack Developer | Community Builder</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&center=true&lines=Building+impactful+software...;Turning+coffee+into+code+☕;Open+Source+Advocate+🌍" alt="Typing Text" />
+<br><br>
+<a href="https://linkedin.com/in/nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://twitter.com/nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://github.com/nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://nandini-goyal.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://youtube.com/@nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" height="28"/></a>
+<br><br>
+</td>
+</tr>
+</table>
 </div>
 
 <p align="center">
