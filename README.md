@@ -13,8 +13,8 @@
 <td colspan="2" align="center" bgcolor="#0d1117">
 <br>
 <h1>⚡ NANDINI GOYAL ⚡</h1>
-<h3>Full Stack Developer | Community Builder</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&center=true&lines=Building+impactful+software...;Turning+coffee+into+code+☕;Open+Source+Advocate+🌍" alt="Typing Text" />
+<h3>Full Stack Developer | Community Builder | Open Source Contributor</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=E53888&width=550&center=true&lines=Building+software+for+web+and+IoT...;Organizing+student+tech+meetups+🌍;Contributing+to+open+source...;Probably+debugging+something+right+now" alt="Typing Text" />
 <br><br>
 <a href="https://linkedin.com/in/nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://twitter.com/nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://github.com/nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://nandini-goyal.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://youtube.com/@nandinigoyaldev" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" height="28"/></a>
 <br><br>
@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
 <!-- THEME: RETRO HACKER / COMPACT PROFILE HUD -->
@@ -36,7 +36,7 @@
 <td width="70%" valign="top">
 <h3>👾 Profile Overview</h3>
 <blockquote><b>"Build things that matter."</b></blockquote>
-I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer Engineering student at IICS. I specialize in building web applications, computer vision, and IoT tools. I also lead the CDN IGNOU community and mentor open-source contributors.
+I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer Engineering student at IICS. I build web applications, computer vision setups, and IoT projects. I also lead the CDN IGNOU community (which mostly involves booking event venues, ordering pizza, and setting up projector screens) and mentor contributors in open source.
 <br><br>
 💻 <b>Focus:</b> Full-Stack Web & IoT &nbsp;•&nbsp; 🎓 <b>Education:</b> BCA & MDCE &nbsp;•&nbsp; 📂 <b>Resume:</b> <a href="./assets/resume/Nandini goyal.pdf">Download PDF</a>
 </td>
@@ -98,7 +98,6 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
   </tr>
 </table>
 </div>
-  
 
 <!-- THEME: QUEST DASHBOARD -->
 <h2 align="center">🎮 Featured Quests (Projects)</h2>
@@ -111,8 +110,8 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="16"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="16"/>
       <br>
-      <font color="#8b949e" size="2">Computer-vision automation system recognizing hand gestures to automate manual workflows.</font><br>
-      <font color="#E53888" size="2"><b>🥈 2nd Place IoT Hackathon</b></font>
+      <font color="#8b949e" size="2">Computer-vision automation system recognizing hand gestures to automate manual desktop workflows.</font><br>
+      <font color="#E53888" size="2"><b>🥈 2nd Place in IoT Hackathon</b></font>
     </td>
     <td width="20%" align="center" valign="middle">
       <a href="https://github.com/nandinigoyaldev/AutoBotX"><kbd>&nbsp;View Quest&nbsp;</kbd></a>
@@ -126,7 +125,7 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="16"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="16"/>
       <br>
-      <font color="#8b949e" size="2">Full-stack web application converting GitHub profiles into RPG-inspired developer cards using GitHub APIs.</font><br>
+      <font color="#8b949e" size="2">Full-stack web application converting GitHub profiles into RPG-inspired cards using GitHub APIs. Built because visualizing dev stats is more fun than looking at raw JSON.</font><br>
       <font color="#58a6ff" size="2"><b>MERN Stack Architecture</b></font>
     </td>
     <td width="20%" align="center" valign="middle">
@@ -141,7 +140,7 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="16"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="16"/>
       <br>
-      <font color="#8b949e" size="2">MERN learning platform teaching Git, GitHub, and open-source contribution through structured modules.</font><br>
+      <font color="#8b949e" size="2">MERN learning platform teaching Git, GitHub, and open-source contribution through structured modules to make collaborative workflows less intimidating.</font><br>
       <font color="#3fb950" size="2"><b>MERN Platform</b></font>
     </td>
     <td width="20%" align="center" valign="middle">
@@ -153,89 +152,75 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
 
 <br>
 
-<!-- THEME: EXPERIENCE & LEADERSHIP TIMELINE -->
+<!-- THEME: EXPERIENCE & LEADERSHIP CATEGORIES -->
 <h2 align="center">💼 Experience & Leadership</h2>
-
-<table align="center" width="95%" cellpadding="6" cellspacing="0">
+<div align="center">
+<table align="center" width="95%" cellpadding="12" cellspacing="10">
   <tr>
-    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
-    <td width="5%" align="center" valign="top"><font color="#E53888">◆</font></td>
-    <td width="75%" valign="top" align="left">
-      <b>Founder & Lead</b> @ <i>CDN IGNOU</i><br>
-      <font color="#8b949e" size="2">Scaled a student developer community, organized technical workshops, hackathons, and developer meetups.</font>
+    <!-- Left Category: Community & Org -->
+    <td width="50%" bgcolor="#0d1117" valign="top" align="left">
+      <h3 align="center" style="color: #E53888; margin-top: 0;">🌱 Community Leadership</h3>
+      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
+      <b>Founder & Lead</b> @ <i>CDN IGNOU</i> <br>
+      <font color="#8b949e" size="2">Founded student community; managing events, coordinating speakers, and helping peers resolve git branch conflicts.</font>
+      <br><br>
+      <b>Project Admin</b> @ <i>Social Summer of Code</i> <br>
+      <font color="#8b949e" size="2">Reviewing pull requests, managing repositories, and helping student open-source contributors with Git workflows.</font>
     </td>
-  </tr>
-  <tr>
-    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
-    <td width="5%" align="center" valign="top"><font color="#58a6ff">◆</font></td>
-    <td width="75%" valign="top" align="left">
-      <b>Project Admin</b> @ <i>Social Summer of Code</i><br>
-      <font color="#8b949e" size="2">Mentoring open-source contributors, managing code reviews, and guiding developers through Git workflows.</font>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
-    <td width="5%" align="center" valign="top"><font color="#3fb950">◆</font></td>
-    <td width="75%" valign="top" align="left">
-      <b>Open Source Contributor</b> @ <i>GSSoC, Apertre 3.0, Nexus SoC</i><br>
-      <font color="#8b949e" size="2">Contributed code fixes, features, and documentation across multiple collaborative repositories.</font>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
-    <td width="5%" align="center" valign="top"><font color="#bc8cff">◆</font></td>
-    <td width="75%" valign="top" align="left">
-      <b>Technical Content Creator</b> @ <i>Self Taught Bob</i><br>
-      <font color="#8b949e" size="2">Published project-based tutorials covering web development, Git, and open source.</font>
+    <!-- Right Category: Code & Content -->
+    <td width="50%" bgcolor="#0d1117" valign="top" align="left">
+      <h3 align="center" style="color: #58a6ff; margin-top: 0;">💻 Dev & Content</h3>
+      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
+      <b>Open Source Contributor</b> @ <i>GSSoC / Apertre / Nexus</i> <br>
+      <font color="#8b949e" size="2">Contributing documentation fixes, features, and code patches to collaborative repositories.</font>
+      <br><br>
+      <b>Technical Content Creator</b> @ <i>Self Taught Bob</i> <br>
+      <font color="#8b949e" size="2">Writing and publishing project-based tutorials covering web development and software engineering.</font>
     </td>
   </tr>
 </table>
+</div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="50%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
-<!-- THEME: HONORS & ACHIEVEMENTS LIST -->
+<!-- THEME: HONORS & ACHIEVEMENTS DECK -->
 <h2 align="center">🏆 Honors & Achievements</h2>
 <div align="center">
-<table align="center" width="95%" cellpadding="10" cellspacing="0">
-  <tr bgcolor="#0d1117">
-    <td width="12%" align="center" valign="middle">
-      <img src="./assets/images/iot.gif" width="50" />
+<table align="center" width="95%" cellpadding="10" cellspacing="10">
+  <tr>
+    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
+      <br>
+      <img src="./assets/images/iot.gif" width="45" /><br><br>
+      <font color="#E53888"><b>🥈 2nd Place</b></font><br>
+      <font size="2" color="#8b949e">IoT Hackathon</font><br>
+      <font size="1" color="#8b949e">AutoBotX OpenCV Project</font>
+      <br><br>
     </td>
-    <td width="88%" valign="middle" align="left">
-      <b>2nd Place Winner</b> — IoT Hackathon<br>
-      <font color="#8b949e" size="2">Secured second place with AutoBotX, a gesture-based computer vision automation tool.</font>
+    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
+      <br>
+      <img src="./assets/images/apertre.gif" width="45" /><br><br>
+      <font color="#58a6ff"><b>🏆 Top 25</b></font><br>
+      <font size="2" color="#8b949e">Apertre 3.0</font><br>
+      <font size="1" color="#8b949e">Open Source Contributions</font>
+      <br><br>
     </td>
-  </tr>
-  <tr><td colspan="2" height="4"></td></tr>
-  <tr bgcolor="#1A1B27">
-    <td width="12%" align="center" valign="middle">
-      <img src="./assets/images/apertre.gif" width="50" />
+    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
+      <br>
+      <img src="./assets/images/diploma.gif" width="45" /><br><br>
+      <font color="#3fb950"><b>🛡️ Admin</b></font><br>
+      <font size="2" color="#8b949e">SSoC 2026</font><br>
+      <font size="1" color="#8b949e">Code Review & Mentoring</font>
+      <br><br>
     </td>
-    <td width="88%" valign="middle" align="left">
-      <b>Top 25 Contributor</b> — Apertre 3.0<br>
-      <font color="#8b949e" size="2">Ranked among the top 25 open-source contributors for making high-impact code and feature additions.</font>
-    </td>
-  </tr>
-  <tr><td colspan="2" height="4"></td></tr>
-  <tr bgcolor="#0d1117">
-    <td width="12%" align="center" valign="middle">
-      <img src="./assets/images/diploma.gif" width="50" />
-    </td>
-    <td width="88%" valign="middle" align="left">
-      <b>Project Admin Selection</b> — Social Summer of Code 2026<br>
-      <font color="#8b949e" size="2">Selected to mentor and guide student open-source contributors on Git development workflows.</font>
-    </td>
-  </tr>
-  <tr><td colspan="2" height="4"></td></tr>
-  <tr bgcolor="#1A1B27">
-    <td width="12%" align="center" valign="middle">
-      <img src="./assets/images/commudle.gif" width="50" />
-    </td>
-    <td width="88%" valign="middle" align="left">
-      <b>Community Founder</b> — CDN IGNOU<br>
-      <font color="#8b949e" size="2">Established and scaled a student tech community to promote software engineering, coding events, and open source.</font>
+    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
+      <br>
+      <img src="./assets/images/commudle.gif" width="45" /><br><br>
+      <font color="#bc8cff"><b>🚀 Founder</b></font><br>
+      <font size="2" color="#8b949e">CDN IGNOU</font><br>
+      <font size="1" color="#8b949e">Student Tech Community</font>
+      <br><br>
     </td>
   </tr>
 </table>
@@ -243,7 +228,10 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
 
 <br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="50%" />
+</p>
+
 <div align="center">
-  <i>"Writing code that makes a difference."</i><br><br>
-  <img src="https://media.tenor.com/dR8VeofA1RoAAAAm/sanrio-cute.webp" width="120" />
+  <i>"Writing code that makes a difference."</i>
 </div>
