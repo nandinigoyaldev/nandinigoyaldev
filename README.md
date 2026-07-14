@@ -99,135 +99,97 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
 </table>
 </div>
 
-<!-- THEME: QUEST DASHBOARD -->
-<h2 align="center">🎮 Featured Quests (Projects)</h2>
+<!-- THEME: FEATURED PROJECTS (FILE BROWSER) -->
+<h2 align="center">🎮 Featured Projects</h2>
 <div align="center">
-<table align="center" width="95%" cellpadding="10" cellspacing="0">
-  <tr bgcolor="#0d1117">
-    <td width="10%" align="center" valign="middle"><h1>🤖</h1></td>
-    <td width="70%" valign="top" align="left">
-      <b>AutoBotX</b> &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="16"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="16"/>
-      <br>
-      <font color="#8b949e" size="2">Computer-vision automation system recognizing hand gestures to automate manual desktop workflows.</font><br>
-      <font color="#E53888" size="2"><b>🥈 2nd Place in IoT Hackathon</b></font>
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <a href="https://github.com/nandinigoyaldev/AutoBotX"><kbd>&nbsp;View Quest&nbsp;</kbd></a>
+<table width="95%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#1A1B27" style="color: #ffffff; padding: 6px 12px; border-radius: 6px 6px 0 0; font-family: monospace;" align="left">
+      &nbsp;📁&nbsp;<b>projects_explorer.sh</b>
     </td>
   </tr>
-  <tr><td colspan="3" height="5"></td></tr>
-  <tr bgcolor="#1A1B27">
-    <td width="10%" align="center" valign="middle"><h1>🎴</h1></td>
-    <td width="70%" valign="top" align="left">
-      <b>Developer RPG Profile Generator</b> &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="16"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="16"/>
-      <br>
-      <font color="#8b949e" size="2">Full-stack web application converting GitHub profiles into RPG-inspired cards using GitHub APIs. Built because visualizing dev stats is more fun than looking at raw JSON.</font><br>
-      <font color="#58a6ff" size="2"><b>MERN Stack Architecture</b></font>
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <a href="https://github.com/nandinigoyaldev"><kbd>&nbsp;View Quest&nbsp;</kbd></a>
-    </td>
-  </tr>
-  <tr><td colspan="3" height="5"></td></tr>
-  <tr bgcolor="#0d1117">
-    <td width="10%" align="center" valign="middle"><h1>🎨</h1></td>
-    <td width="70%" valign="top" align="left">
-      <b>OS Contribution Atelier</b> &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="16"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="16"/>
-      <br>
-      <font color="#8b949e" size="2">MERN learning platform teaching Git, GitHub, and open-source contribution through structured modules to make collaborative workflows less intimidating.</font><br>
-      <font color="#3fb950" size="2"><b>MERN Platform</b></font>
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <a href="https://github.com/nandinigoyaldev"><kbd>&nbsp;View Quest&nbsp;</kbd></a>
+  <tr>
+    <td bgcolor="#0d1117" style="padding: 15px; border-radius: 0 0 6px 6px; font-family: monospace;" align="left">
+      <font color="#8b949e"># Executing directory list command...</font><br>
+      <font color="#E53888"><b>$ tree ./featured_projects --level=2</b></font><br><br>
+      <font color="#58a6ff"><b>.</b></font><br>
+      ├── <font color="#3fb950"><b>🤖 AutoBotX/</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#8b949e"># Gesture-based desktop automation tool</font><br>
+      │   ├── 📜 <a href="https://github.com/nandinigoyaldev/AutoBotX"><b>Codebase</b></a><br>
+      │   └── 🎖️ <b>🥈 2nd Place Winner | IoT Hackathon</b><br>
+      │<br>
+      ├── <font color="#3fb950"><b>🎴 Developer_RPG/</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#8b949e"># GitHub profiles to RPG cards renderer</font><br>
+      │   ├── 📜 <a href="https://github.com/nandinigoyaldev"><b>Codebase</b></a><br>
+      │   └── ⚛️ <b>MERN Stack Architecture</b><br>
+      │<br>
+      └── <font color="#3fb950"><b>🎨 OS_Contribution_Atelier/</b></font> &nbsp;&nbsp; <font color="#8b949e"># Git and open-source learning portal</font><br>
+          ├── 📜 <a href="https://github.com/nandinigoyaldev"><b>Codebase</b></a><br>
+          └── ⚙️ <b>MERN Platform</b>
     </td>
   </tr>
 </table>
 </div>
 
 <br>
-
-<!-- THEME: EXPERIENCE & LEADERSHIP CATEGORIES -->
-<h2 align="center">💼 Experience & Leadership</h2>
-<div align="center">
-<table align="center" width="95%" cellpadding="12" cellspacing="10">
-  <tr>
-    <!-- Left Category: Community & Org -->
-    <td width="50%" bgcolor="#0d1117" valign="top" align="left">
-      <h3 align="center" style="color: #E53888; margin-top: 0;">🌱 Community Leadership</h3>
-      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
-      <b>Founder & Lead</b> @ <i>CDN IGNOU</i> <br>
-      <font color="#8b949e" size="2">Founded student community; managing events, coordinating speakers, and helping peers resolve git branch conflicts.</font>
-      <br><br>
-      <b>Project Admin</b> @ <i>Social Summer of Code</i> <br>
-      <font color="#8b949e" size="2">Reviewing pull requests, managing repositories, and helping student open-source contributors with Git workflows.</font>
-    </td>
-    <!-- Right Category: Code & Content -->
-    <td width="50%" bgcolor="#0d1117" valign="top" align="left">
-      <h3 align="center" style="color: #58a6ff; margin-top: 0;">💻 Dev & Content</h3>
-      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
-      <b>Open Source Contributor</b> @ <i>GSSoC / Apertre / Nexus</i> <br>
-      <font color="#8b949e" size="2">Contributing documentation fixes, features, and code patches to collaborative repositories.</font>
-      <br><br>
-      <b>Technical Content Creator</b> @ <i>Self Taught Bob</i> <br>
-      <font color="#8b949e" size="2">Writing and publishing project-based tutorials covering web development and software engineering.</font>
-    </td>
-  </tr>
-</table>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
-<!-- THEME: HONORS & ACHIEVEMENTS DECK -->
+<!-- THEME: EXPERIENCE & LEADERSHIP (DASHED ROLE SHEET) -->
+<h2 align="center">💼 Experience & Leadership</h2>
+
+<div align="left">
+  <h3>🌱 Community Leadership</h3>
+  &nbsp;&nbsp;🚀 <b>Founder & Lead</b> @ <i>CDN IGNOU</i> <br>
+  &nbsp;&nbsp;<font color="#8b949e" size="2">Founded student community; managing events, coordinating speakers, and helping peers resolve git branch conflicts.</font>
+  <br><br>
+  &nbsp;&nbsp;🛡️ <b>Project Admin</b> @ <i>Social Summer of Code</i> <br>
+  &nbsp;&nbsp;<font color="#8b949e" size="2">Reviewing pull requests, managing repositories, and helping student open-source contributors with Git workflows.</font>
+
+  <hr style="border: 0; border-top: 1px dashed #2D0B5A; margin: 20px 0;">
+
+  <h3>💻 Dev & Content</h3>
+  &nbsp;&nbsp;💻 <b>Open Source Contributor</b> @ <i>GSSoC / Apertre / Nexus</i> <br>
+  &nbsp;&nbsp;<font color="#8b949e" size="2">Contributing documentation fixes, features, and code patches to collaborative repositories.</font>
+  <br><br>
+  &nbsp;&nbsp;🎥 <b>Technical Content Creator</b> @ <i>Self Taught Bob</i> <br>
+  &nbsp;&nbsp;<font color="#8b949e" size="2">Writing and publishing project-based tutorials covering web development and software engineering.</font>
+</div>
+
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
+</p>
+
+<!-- THEME: HONORS & ACHIEVEMENTS (MEDAL DECK) -->
 <h2 align="center">🏆 Honors & Achievements</h2>
 <div align="center">
-<table align="center" width="95%" cellpadding="10" cellspacing="10">
+<table border="0" cellpadding="10" cellspacing="15">
   <tr>
-    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
-      <br>
-      <img src="./assets/images/iot.gif" width="45" /><br><br>
+    <td align="center" valign="top">
+      <img src="./assets/images/iot.gif" width="60" style="border-radius: 50%;" /><br><br>
       <font color="#E53888"><b>🥈 2nd Place</b></font><br>
-      <font size="2" color="#8b949e">IoT Hackathon</font><br>
-      <font size="1" color="#8b949e">AutoBotX OpenCV Project</font>
-      <br><br>
+      <font size="2" color="#8b949e">IoT Hackathon</font>
     </td>
-    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
-      <br>
-      <img src="./assets/images/apertre.gif" width="45" /><br><br>
+    <td align="center" valign="top">
+      <img src="./assets/images/apertre.gif" width="60" style="border-radius: 50%;" /><br><br>
       <font color="#58a6ff"><b>🏆 Top 25</b></font><br>
-      <font size="2" color="#8b949e">Apertre 3.0</font><br>
-      <font size="1" color="#8b949e">Open Source Contributions</font>
-      <br><br>
+      <font size="2" color="#8b949e">Apertre 3.0</font>
     </td>
-    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
-      <br>
-      <img src="./assets/images/diploma.gif" width="45" /><br><br>
+    <td align="center" valign="top">
+      <img src="./assets/images/diploma.gif" width="60" style="border-radius: 50%;" /><br><br>
       <font color="#3fb950"><b>🛡️ Admin</b></font><br>
-      <font size="2" color="#8b949e">SSoC 2026</font><br>
-      <font size="1" color="#8b949e">Code Review & Mentoring</font>
-      <br><br>
+      <font size="2" color="#8b949e">SSoC 2026</font>
     </td>
-    <td align="center" width="25%" bgcolor="#0d1117" valign="top">
-      <br>
-      <img src="./assets/images/commudle.gif" width="45" /><br><br>
+    <td align="center" valign="top">
+      <img src="./assets/images/commudle.gif" width="60" style="border-radius: 50%;" /><br><br>
       <font color="#bc8cff"><b>🚀 Founder</b></font><br>
-      <font size="2" color="#8b949e">CDN IGNOU</font><br>
-      <font size="1" color="#8b949e">Student Tech Community</font>
-      <br><br>
+      <font size="2" color="#8b949e">CDN IGNOU</font>
     </td>
   </tr>
 </table>
 </div>
 
 <br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="50%" />
 </p>
