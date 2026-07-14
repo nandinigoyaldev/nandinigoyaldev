@@ -47,20 +47,83 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
-<!-- THEME: FLOATING GLASS / SKILL ISLANDS -->
+<!-- THEME: SYNTHWAVE TECH ATTRIBUTES HUD -->
 <h2 align="center">✨ Tech Toolkit</h2>
 <div align="center">
-  <i>Technologies I use to bring ideas to life</i><br><br>
-  
-  <b>🌐 Frontend Ecosystem</b><br>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=light" /><br><br>
-  
-  <b>⚙️ Backend & Data</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,cpp,sql,mongodb,mysql&theme=light" /><br><br>
-  
-  <b>🛠️ Tools, Libraries & DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,postman,opencv&theme=light" /><br>
-  <i>Also skilled in: MediaPipe, REST APIs, Git Workflows, Responsive Design</i>
+<table width="90%" border="0" cellpadding="6" cellspacing="0">
+  <tr bgcolor="#0d1117">
+    <td colspan="3" align="center"><b>🌐 FRONTEND ECOSYSTEM</b></td>
+  </tr>
+  <tr bgcolor="#1A1B27">
+    <td width="25%">&nbsp;&nbsp;React.js / JS</td>
+    <td width="60%">
+      <table width="100%" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#E53888" width="90%">&nbsp;</td><td bgcolor="#0d1117" width="10%">&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="15%" align="right"><b>90%</b>&nbsp;&nbsp;</td>
+  </tr>
+  <tr bgcolor="#1A1B27">
+    <td width="25%">&nbsp;&nbsp;Tailwind / CSS</td>
+    <td width="60%">
+      <table width="100%" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#E53888" width="85%">&nbsp;</td><td bgcolor="#0d1117" width="15%">&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="15%" align="right"><b>85%</b>&nbsp;&nbsp;</td>
+  </tr>
+  <tr bgcolor="#0d1117">
+    <td colspan="3" align="center"><b>⚙️ BACKEND & DATABASES</b></td>
+  </tr>
+  <tr bgcolor="#1A1B27">
+    <td width="25%">&nbsp;&nbsp;Node.js / Express</td>
+    <td width="60%">
+      <table width="100%" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#2D0B5A" width="80%">&nbsp;</td><td bgcolor="#0d1117" width="20%">&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="15%" align="right"><b>80%</b>&nbsp;&nbsp;</td>
+  </tr>
+  <tr bgcolor="#1A1B27">
+    <td width="25%">&nbsp;&nbsp;Flask (Python)</td>
+    <td width="60%">
+      <table width="100%" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#2D0B5A" width="75%">&nbsp;</td><td bgcolor="#0d1117" width="25%">&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="15%" align="right"><b>75%</b>&nbsp;&nbsp;</td>
+  </tr>
+  <tr bgcolor="#1A1B27">
+    <td width="25%">&nbsp;&nbsp;MySQL / MongoDB</td>
+    <td width="60%">
+      <table width="100%" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#2D0B5A" width="85%">&nbsp;</td><td bgcolor="#0d1117" width="15%">&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="15%" align="right"><b>85%</b>&nbsp;&nbsp;</td>
+  </tr>
+  <tr bgcolor="#0d1117">
+    <td colspan="3" align="center"><b>🛠️ TOOLS & LIBRARIES</b></td>
+  </tr>
+  <tr bgcolor="#1A1B27">
+    <td width="25%">&nbsp;&nbsp;OpenCV / MediaPipe</td>
+    <td width="60%">
+      <table width="100%" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#58a6ff" width="80%">&nbsp;</td><td bgcolor="#0d1117" width="20%">&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="15%" align="right"><b>80%</b>&nbsp;&nbsp;</td>
+  </tr>
+  <tr bgcolor="#1A1B27">
+    <td width="25%">&nbsp;&nbsp;Git & GitHub</td>
+    <td width="60%">
+      <table width="100%" cellspacing="0" cellpadding="2">
+        <tr><td bgcolor="#58a6ff" width="90%">&nbsp;</td><td bgcolor="#0d1117" width="10%">&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="15%" align="right"><b>90%</b>&nbsp;&nbsp;</td>
+  </tr>
+</table>
 </div>
 
 <br>
