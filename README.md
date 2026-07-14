@@ -47,128 +47,109 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
-<!-- THEME: SYNTHWAVE TECH ATTRIBUTES HUD -->
+<!-- THEME: BRAND BADGE MATRIX -->
 <h2 align="center">✨ Tech Toolkit</h2>
 <div align="center">
-<table width="90%" border="0" cellpadding="6" cellspacing="0">
-  <tr bgcolor="#0d1117">
-    <td colspan="3" align="center"><b>🌐 FRONTEND ECOSYSTEM</b></td>
+<table border="0" cellpadding="8" cellspacing="8">
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
   </tr>
-  <tr bgcolor="#1A1B27">
-    <td width="25%">&nbsp;&nbsp;React.js / JS</td>
-    <td width="60%">
-      <table width="100%" cellspacing="0" cellpadding="2">
-        <tr><td bgcolor="#E53888" width="90%">&nbsp;</td><td bgcolor="#0d1117" width="10%">&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="15%" align="right"><b>90%</b>&nbsp;&nbsp;</td>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></td>
   </tr>
-  <tr bgcolor="#1A1B27">
-    <td width="25%">&nbsp;&nbsp;Tailwind / CSS</td>
-    <td width="60%">
-      <table width="100%" cellspacing="0" cellpadding="2">
-        <tr><td bgcolor="#E53888" width="85%">&nbsp;</td><td bgcolor="#0d1117" width="15%">&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="15%" align="right"><b>85%</b>&nbsp;&nbsp;</td>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
   </tr>
-  <tr bgcolor="#0d1117">
-    <td colspan="3" align="center"><b>⚙️ BACKEND & DATABASES</b></td>
-  </tr>
-  <tr bgcolor="#1A1B27">
-    <td width="25%">&nbsp;&nbsp;Node.js / Express</td>
-    <td width="60%">
-      <table width="100%" cellspacing="0" cellpadding="2">
-        <tr><td bgcolor="#2D0B5A" width="80%">&nbsp;</td><td bgcolor="#0d1117" width="20%">&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="15%" align="right"><b>80%</b>&nbsp;&nbsp;</td>
-  </tr>
-  <tr bgcolor="#1A1B27">
-    <td width="25%">&nbsp;&nbsp;Flask (Python)</td>
-    <td width="60%">
-      <table width="100%" cellspacing="0" cellpadding="2">
-        <tr><td bgcolor="#2D0B5A" width="75%">&nbsp;</td><td bgcolor="#0d1117" width="25%">&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="15%" align="right"><b>75%</b>&nbsp;&nbsp;</td>
-  </tr>
-  <tr bgcolor="#1A1B27">
-    <td width="25%">&nbsp;&nbsp;MySQL / MongoDB</td>
-    <td width="60%">
-      <table width="100%" cellspacing="0" cellpadding="2">
-        <tr><td bgcolor="#2D0B5A" width="85%">&nbsp;</td><td bgcolor="#0d1117" width="15%">&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="15%" align="right"><b>85%</b>&nbsp;&nbsp;</td>
-  </tr>
-  <tr bgcolor="#0d1117">
-    <td colspan="3" align="center"><b>🛠️ TOOLS & LIBRARIES</b></td>
-  </tr>
-  <tr bgcolor="#1A1B27">
-    <td width="25%">&nbsp;&nbsp;OpenCV / MediaPipe</td>
-    <td width="60%">
-      <table width="100%" cellspacing="0" cellpadding="2">
-        <tr><td bgcolor="#58a6ff" width="80%">&nbsp;</td><td bgcolor="#0d1117" width="20%">&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="15%" align="right"><b>80%</b>&nbsp;&nbsp;</td>
-  </tr>
-  <tr bgcolor="#1A1B27">
-    <td width="25%">&nbsp;&nbsp;Git & GitHub</td>
-    <td width="60%">
-      <table width="100%" cellspacing="0" cellpadding="2">
-        <tr><td bgcolor="#58a6ff" width="90%">&nbsp;</td><td bgcolor="#0d1117" width="10%">&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="15%" align="right"><b>90%</b>&nbsp;&nbsp;</td>
+  <tr>
+    <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
   </tr>
 </table>
 </div>
 
 <br>
 
-<!-- THEME: DARK MODERN STATS & TROPHIES -->
+<!-- THEME: SYNTHWAVE STATS RADAR -->
+<h2 align="center">📈 GitHub Radar</h2>
 <div align="center">
-  <h2 align="center">📈 GitHub Radar</h2>
-  
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/nandinigoyaldev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandinigoyaldev&theme=tokyo-night&bg_color=1A1B27&hide_border=true" alt="GitHub Activity Graph" width="90%" />
-  </a>
-  
-  <br><br>
-  
-  <!-- Stats & Streak -->
-   
-  <a href="https://github.com/nandinigoyaldev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigoyaldev&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
-  </a>
-  
-  <br><br>
-  
-
-<!-- THEME: ARCADE PROJECT CARDS -->
-<h2 align="center">🎮 Featured Quests (Projects)</h2>
-<table align="center" width="90%">
+<table border="0" cellpadding="0" cellspacing="10">
   <tr>
-    <td align="center" width="33%" style="background-color: #0d1117; padding: 20px; border-radius: 10px; vertical-align: top;">
-      <h3 style="color: #58a6ff;">🤖 AutoBotX</h3>
-      <img src="https://skillicons.dev/icons?i=python,opencv" width="50"/>
-      <p>Computer-vision automation system recognizing hand gestures to automate manual workflows.<br><b>🥈 2nd Place IoT Hackathon</b></p>
+    <td valign="top">
+      <a href="https://github.com/nandinigoyaldev">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandinigoyaldev&theme=2077" alt="Nandini's GitHub Profile Details" />
+      </a>
     </td>
-    <td align="center" width="33%" style="background-color: #0d1117; padding: 20px; border-radius: 10px; vertical-align: top;">
-      <h3 style="color: #3fb950;">🎴 Developer RPG</h3>
-      <img src="https://skillicons.dev/icons?i=react,mongodb" width="50"/>
-      <p>Full-stack web application converting GitHub profiles into RPG-inspired cards using GitHub APIs.<br><b>MERN Stack</b></p>
-    </td>
-    <td align="center" width="33%" style="background-color: #0d1117; padding: 20px; border-radius: 10px; vertical-align: top;">
-      <h3 style="color: #bc8cff;">🎨 OS Contribution Atelier</h3>
-      <img src="https://skillicons.dev/icons?i=react,nodejs" width="50"/>
-      <p>Interactive learning platform teaching Git/GitHub workflows through structured, project-based modules.<br><b>MERN Platform</b></p>
+    <td valign="top">
+      <a href="https://github.com/nandinigoyaldev">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandinigoyaldev&theme=2077" alt="Repos Per Language" />
+      </a>
     </td>
   </tr>
 </table>
+</div>
+  
+
+<!-- THEME: QUEST DASHBOARD -->
+<h2 align="center">🎮 Featured Quests (Projects)</h2>
+<div align="center">
+<table align="center" width="95%" cellpadding="10" cellspacing="0">
+  <tr bgcolor="#0d1117">
+    <td width="10%" align="center" valign="middle"><h1>🤖</h1></td>
+    <td width="70%" valign="top" align="left">
+      <b>AutoBotX</b> &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="16"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="16"/>
+      <br>
+      <font color="#8b949e" size="2">Computer-vision automation system recognizing hand gestures to automate manual workflows.</font><br>
+      <font color="#E53888" size="2"><b>🥈 2nd Place IoT Hackathon</b></font>
+    </td>
+    <td width="20%" align="center" valign="middle">
+      <a href="https://github.com/nandinigoyaldev/AutoBotX"><kbd>&nbsp;View Quest&nbsp;</kbd></a>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="5"></td></tr>
+  <tr bgcolor="#1A1B27">
+    <td width="10%" align="center" valign="middle"><h1>🎴</h1></td>
+    <td width="70%" valign="top" align="left">
+      <b>Developer RPG Profile Generator</b> &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="16"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="16"/>
+      <br>
+      <font color="#8b949e" size="2">Full-stack web application converting GitHub profiles into RPG-inspired developer cards using GitHub APIs.</font><br>
+      <font color="#58a6ff" size="2"><b>MERN Stack Architecture</b></font>
+    </td>
+    <td width="20%" align="center" valign="middle">
+      <a href="https://github.com/nandinigoyaldev"><kbd>&nbsp;View Quest&nbsp;</kbd></a>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="5"></td></tr>
+  <tr bgcolor="#0d1117">
+    <td width="10%" align="center" valign="middle"><h1>🎨</h1></td>
+    <td width="70%" valign="top" align="left">
+      <b>OS Contribution Atelier</b> &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="16"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="16"/>
+      <br>
+      <font color="#8b949e" size="2">MERN learning platform teaching Git, GitHub, and open-source contribution through structured modules.</font><br>
+      <font color="#3fb950" size="2"><b>MERN Platform</b></font>
+    </td>
+    <td width="20%" align="center" valign="middle">
+      <a href="https://github.com/nandinigoyaldev"><kbd>&nbsp;View Quest&nbsp;</kbd></a>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br>
 
