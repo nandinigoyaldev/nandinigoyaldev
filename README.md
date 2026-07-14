@@ -99,31 +99,39 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
 </table>
 </div>
 
-<!-- THEME: FEATURED PROJECTS (FILE BROWSER) -->
+<!-- THEME: FEATURED PROJECTS (IDE YAML TAB) -->
 <h2 align="center">🎮 Featured Projects</h2>
 <div align="center">
 <table width="95%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td bgcolor="#1A1B27" style="color: #ffffff; padding: 6px 12px; border-radius: 6px 6px 0 0; font-family: monospace;" align="left">
-      &nbsp;📁&nbsp;<b>projects_explorer.sh</b>
+    <td bgcolor="#2D0B5A" align="left" style="color: #ffffff; padding: 6px 12px; border-radius: 6px 6px 0 0; font-family: monospace;">
+      &nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;&nbsp;<b>IDE - projects.yaml</b>
     </td>
   </tr>
   <tr>
-    <td bgcolor="#0d1117" style="padding: 15px; border-radius: 0 0 6px 6px; font-family: monospace;" align="left">
-      <font color="#8b949e"># Executing directory list command...</font><br>
-      <font color="#E53888"><b>$ tree ./featured_projects --level=2</b></font><br><br>
-      <font color="#58a6ff"><b>.</b></font><br>
-      ├── <font color="#3fb950"><b>🤖 AutoBotX/</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#8b949e"># Gesture-based desktop automation tool</font><br>
-      │   ├── 📜 <a href="https://github.com/nandinigoyaldev/AutoBotX"><b>Codebase</b></a><br>
-      │   └── 🎖️ <b>🥈 2nd Place Winner | IoT Hackathon</b><br>
-      │<br>
-      ├── <font color="#3fb950"><b>🎴 Developer_RPG/</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#8b949e"># GitHub profiles to RPG cards renderer</font><br>
-      │   ├── 📜 <a href="https://github.com/nandinigoyaldev"><b>Codebase</b></a><br>
-      │   └── ⚛️ <b>MERN Stack Architecture</b><br>
-      │<br>
-      └── <font color="#3fb950"><b>🎨 OS_Contribution_Atelier/</b></font> &nbsp;&nbsp; <font color="#8b949e"># Git and open-source learning portal</font><br>
-          ├── 📜 <a href="https://github.com/nandinigoyaldev"><b>Codebase</b></a><br>
-          └── ⚙️ <b>MERN Platform</b>
+    <td bgcolor="#0d1117" style="padding: 10px 15px 0 15px; border-radius: 0 0 6px 6px;" align="left">
+
+```yaml
+# Featured Projects Manifest
+AutoBotX:
+  type: "Gesture Automation System"
+  stack: [Python, OpenCV, MediaPipe]
+  status: "🥈 2nd Place IoT Hackathon"
+  repo: "github.com/nandinigoyaldev/AutoBotX"
+
+Developer_RPG:
+  type: "GitHub RPG Card Generator"
+  stack: [React.js, MongoDB, Express, Node]
+  status: "MERN Stack Architecture"
+  repo: "github.com/nandinigoyaldev"
+
+OS_Contribution_Atelier:
+  type: "Git Learning Portal"
+  stack: [React.js, Node.js, Express, MongoDB]
+  status: "MERN Platform"
+  repo: "github.com/nandinigoyaldev"
+```
+
     </td>
   </tr>
 </table>
@@ -134,25 +142,31 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
-<!-- THEME: EXPERIENCE & LEADERSHIP (DASHED ROLE SHEET) -->
+<!-- THEME: EXPERIENCE & LEADERSHIP (GIT GRAPH) -->
 <h2 align="center">💼 Experience & Leadership</h2>
 
+```mermaid
+gitGraph
+  commit id: "BCA_Student"
+  commit id: "CDN_IGNOU_Founder"
+  branch open_source
+  commit id: "GSSoC_Contributor"
+  commit id: "Apertre_Top_25"
+  checkout main
+  commit id: "SSoC_Project_Admin"
+  branch content_creation
+  commit id: "Self_Taught_Bob"
+  checkout main
+  merge open_source id: "Present"
+```
+
 <div align="left">
-  <h3>🌱 Community Leadership</h3>
-  &nbsp;&nbsp;🚀 <b>Founder & Lead</b> @ <i>CDN IGNOU</i> <br>
-  &nbsp;&nbsp;<font color="#8b949e" size="2">Founded student community; managing events, coordinating speakers, and helping peers resolve git branch conflicts.</font>
-  <br><br>
-  &nbsp;&nbsp;🛡️ <b>Project Admin</b> @ <i>Social Summer of Code</i> <br>
-  &nbsp;&nbsp;<font color="#8b949e" size="2">Reviewing pull requests, managing repositories, and helping student open-source contributors with Git workflows.</font>
-
-  <hr style="border: 0; border-top: 1px dashed #2D0B5A; margin: 20px 0;">
-
-  <h3>💻 Dev & Content</h3>
-  &nbsp;&nbsp;💻 <b>Open Source Contributor</b> @ <i>GSSoC / Apertre / Nexus</i> <br>
-  &nbsp;&nbsp;<font color="#8b949e" size="2">Contributing documentation fixes, features, and code patches to collaborative repositories.</font>
-  <br><br>
-  &nbsp;&nbsp;🎥 <b>Technical Content Creator</b> @ <i>Self Taught Bob</i> <br>
-  &nbsp;&nbsp;<font color="#8b949e" size="2">Writing and publishing project-based tutorials covering web development and software engineering.</font>
+  <ul>
+    <li><b>CDN_IGNOU_Founder</b>: Established student community; managing events, coordinating speakers, and helping peers resolve git conflicts.</li><br>
+    <li><b>SSoC_Project_Admin</b>: Mentoring contributors, reviewing pull requests, and managing repository workflows.</li><br>
+    <li><b>open_source branch</b>: Contributing code patches, features, and documentation across public codebases.</li><br>
+    <li><b>content_creation branch</b>: Writing and publishing web development and Git tutorials on Self Taught Bob.</li>
+  </ul>
 </div>
 
 <br>
