@@ -116,35 +116,44 @@
 
 <br>
 
-<!-- THEME: INTERACTIVE TIMELINE / TERMINAL -->
+<!-- THEME: LORE & EXPERIENCE CARDS -->
 <h2 align="center">📜 Lore & Experience</h2>
-<div align="center">
-  <details>
-    <summary><b>🌱 2026 - Present: Community Building</b></summary>
-    <br>
-    <ul>
-      <li><b>Founder & Tech Lead @ CDN IGNOU:</b> Built a thriving student tech community.</li>
-      <li><b>Host & Management Lead @ Open Source Connect:</b> Organized major developer meetups.</li>
-      <li><b>Campus Ambassador @ GeeksforGeeks:</b> Engaging students with code.</li>
-    </ul>
-  </details>
-  <details>
-    <summary><b>💻 2026 - Present: Open Source & Work</b></summary>
-    <br>
-    <ul>
-      <li><b>Project Admin & Contributor @ Open Source Programs:</b> Top 25 contributor in Apertre 3.0.</li>
-      <li><b>Program Manager Lead @ Work2Hire:</b> Outreach and webinar management.</li>
-      <li><b>Sales Development Rep @ AlgoAcquisition:</b> AI-driven pipeline generation.</li>
-    </ul>
-  </details>
-  <details>
-    <summary><b>🎥 Content Creation</b></summary>
-    <br>
-    <ul>
-      <li><b>Content Creator @ YouTube (Nandini):</b> Mentoring developers and sharing tech tutorials.</li>
-    </ul>
-  </details>
-</div>
+
+<table align="center" width="95%">
+  <tr>
+    <!-- Card 1: Community -->
+    <td width="33%" style="background-color: #0d1117; border: 1px solid #E53888; border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h3 align="center" style="color: #E53888; margin-top: 0;">🌱 Community</h3>
+      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-bottom: 15px;">2026 - Present</p>
+      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
+      <ul style="padding-left: 15px; margin: 0; font-size: 0.95em;">
+        <li><b>Founder & Tech Lead</b> @ <i>CDN IGNOU</i><br><span style="font-size: 0.85em; color: #8b949e;">Built a thriving student tech community.</span></li><br>
+        <li><b>Host & Management Lead</b> @ <i>Open Source Connect</i><br><span style="font-size: 0.85em; color: #8b949e;">Organized major developer meetups.</span></li><br>
+        <li><b>Campus Ambassador</b> @ <i>GeeksforGeeks</i><br><span style="font-size: 0.85em; color: #8b949e;">Engaging students with code.</span></li>
+      </ul>
+    </td>
+    <!-- Card 2: Open Source & Work -->
+    <td width="33%" style="background-color: #0d1117; border: 1px solid #58a6ff; border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h3 align="center" style="color: #58a6ff; margin-top: 0;">💻 Dev & Work</h3>
+      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-bottom: 15px;">2026 - Present</p>
+      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
+      <ul style="padding-left: 15px; margin: 0; font-size: 0.95em;">
+        <li><b>Project Admin & Contributor</b> @ <i>Open Source Programs</i><br><span style="font-size: 0.85em; color: #8b949e;">Top 25 contributor in Apertre 3.0.</span></li><br>
+        <li><b>Program Manager Lead</b> @ <i>Work2Hire</i><br><span style="font-size: 0.85em; color: #8b949e;">Outreach and webinar management.</span></li><br>
+        <li><b>Sales Development Rep</b> @ <i>AlgoAcquisition</i><br><span style="font-size: 0.85em; color: #8b949e;">AI-driven pipeline generation.</span></li>
+      </ul>
+    </td>
+    <!-- Card 3: Content Creation -->
+    <td width="33%" style="background-color: #0d1117; border: 1px solid #3fb950; border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h3 align="center" style="color: #3fb950; margin-top: 0;">🎥 Content</h3>
+      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-bottom: 15px;">Creator Journey</p>
+      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
+      <ul style="padding-left: 15px; margin: 0; font-size: 0.95em;">
+        <li><b>Content Creator</b> @ <i>YouTube (Nandini)</i><br><span style="font-size: 0.85em; color: #8b949e;">Mentoring developers and sharing tech tutorials.</span></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="50%" />
