@@ -27,38 +27,18 @@
   <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="80%" />
 </p>
 
-<!-- THEME: RETRO HACKER / RPG STATUS -->
+<!-- THEME: RETRO HACKER / COMPACT PROFILE HUD -->
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
-<h2>👾 whoami</h2>
-<table width="100%">
-<tr>
-<td bgcolor="#0d1117">
-<font color="#E53888"><b>nandini@terminal:~$</b></font> cat whoami.md<br><br>
+<td width="30%" align="center" valign="middle">
+<img src="./assets/images/coder.gif" width="130" />
+</td>
+<td width="70%" valign="top">
+<h3>👾 Profile Overview</h3>
 <blockquote><b>"Build things that matter."</b></blockquote>
-I'm a Full Stack Developer and BCA student at IGNOU, pursuing a Master Diploma in Computer Engineering at IICS. I specialize in building web applications, computer vision, and IoT tools. I also love building tech communities and contributing to open source.
+I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer Engineering student at IICS. I specialize in building web applications, computer vision, and IoT tools. I also lead the CDN IGNOU community and mentor open-source contributors.
 <br><br>
-📂 <b>System Resume:</b> <a href="./assets/resume/Nandini goyal.pdf">Download Resume</a>
-</td>
-</tr>
-</table>
-<br>
-<div align="center">
-<img src="./assets/images/coder.gif" width="220" />
-</div>
-</td>
-<td width="5%"></td>
-<td width="40%" valign="top" bgcolor="#0d1117">
-<br>
-<div align="center"><b>⚡ CHARACTER STATUS ⚡</b></div>
-<hr color="#E53888">
-<br>
-🔹 <b>Class:</b><br>Full-Stack Mage (Web & IoT)<br><br>
-🔹 <b>Energy Buff:</b><br>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% (☕)<br><br>
-🔹 <b>Level (Education):</b><br>BCA @ IGNOU & Diploma @ IICS<br><br>
-🔹 <b>Active Quests:</b><br>Scaling CDN IGNOU & Mentoring at SSoC<br><br>
-🔹 <b>Special Abilities:</b><br>React, Node, Express, Flask, Python, OpenCV
+💻 <b>Focus:</b> Full-Stack Web & IoT &nbsp;•&nbsp; 🎓 <b>Education:</b> BCA & MDCE &nbsp;•&nbsp; 📂 <b>Resume:</b> <a href="./assets/resume/Nandini goyal.pdf">Download PDF</a>
 </td>
 </tr>
 </table>
