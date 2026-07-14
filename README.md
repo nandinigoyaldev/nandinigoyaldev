@@ -142,31 +142,69 @@ OS_Contribution_Atelier:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="80%" />
 </p>
 
-<!-- THEME: EXPERIENCE & LEADERSHIP (GIT GRAPH) -->
+<!-- THEME: EXPERIENCE & LEADERSHIP (BADGE ROADMAP) -->
 <h2 align="center">💼 Experience & Leadership</h2>
+<div align="center">
+<table width="95%" border="0" cellpadding="10" cellspacing="0">
+  <!-- Role 1 -->
+  <tr>
+    <td width="30%" align="center" valign="middle" style="border-right: 2px dashed #2D0B5A;">
+      <img src="https://img.shields.io/badge/CDN_IGNOU-2D0B5A?style=for-the-badge&logo=codeforces&logoColor=white" alt="CDN IGNOU" /><br><br>
+    </td>
+    <td width="70%" valign="top" align="left" style="padding-left: 20px;">
+      <h3 style="color: #E53888; margin-top: 0; margin-bottom: 4px;">Founder & Lead</h3>
+      <b>Jan 2026 - Present</b>
+      <p style="color: #8b949e; font-size: 0.95em; margin-top: 6px; margin-bottom: 0;">
+        Founded student community; managing events, coordinating speakers, and helping peers resolve git conflicts.
+      </p>
+      <br>
+    </td>
+  </tr>
 
-```mermaid
-gitGraph
-  commit id: "BCA_Student"
-  commit id: "CDN_IGNOU_Founder"
-  branch open_source
-  commit id: "GSSoC_Contributor"
-  commit id: "Apertre_Top_25"
-  checkout main
-  commit id: "SSoC_Project_Admin"
-  branch content_creation
-  commit id: "Self_Taught_Bob"
-  checkout main
-  merge open_source id: "Present"
-```
+  <!-- Role 2 -->
+  <tr>
+    <td width="30%" align="center" valign="middle" style="border-right: 2px dashed #2D0B5A;">
+      <img src="https://img.shields.io/badge/SSoC_2026-E53888?style=for-the-badge&logo=git&logoColor=white" alt="SSoC" /><br><br>
+    </td>
+    <td width="70%" valign="top" align="left" style="padding-left: 20px;">
+      <h3 style="color: #58a6ff; margin-top: 0; margin-bottom: 4px;">Project Admin</h3>
+      <b>May 2026 - Present</b>
+      <p style="color: #8b949e; font-size: 0.95em; margin-top: 6px; margin-bottom: 0;">
+        Mentoring open-source contributors, reviewing pull requests, and managing repository workflows.
+      </p>
+      <br>
+    </td>
+  </tr>
 
-<div align="left">
-  <ul>
-    <li><b>CDN_IGNOU_Founder</b>: Established student community; managing events, coordinating speakers, and helping peers resolve git conflicts.</li><br>
-    <li><b>SSoC_Project_Admin</b>: Mentoring contributors, reviewing pull requests, and managing repository workflows.</li><br>
-    <li><b>open_source branch</b>: Contributing code patches, features, and documentation across public codebases.</li><br>
-    <li><b>content_creation branch</b>: Writing and publishing web development and Git tutorials on Self Taught Bob.</li>
-  </ul>
+  <!-- Role 3 -->
+  <tr>
+    <td width="30%" align="center" valign="middle" style="border-right: 2px dashed #2D0B5A;">
+      <img src="https://img.shields.io/badge/Open_Source-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" /><br><br>
+    </td>
+    <td width="70%" valign="top" align="left" style="padding-left: 20px;">
+      <h3 style="color: #3fb950; margin-top: 0; margin-bottom: 4px;">Contributor</h3>
+      <b>Feb 2026 - Present</b>
+      <p style="color: #8b949e; font-size: 0.95em; margin-top: 6px; margin-bottom: 0;">
+        Contributing documentation fixes, features, and code patches to collaborative repositories.
+      </p>
+      <br>
+    </td>
+  </tr>
+
+  <!-- Role 4 -->
+  <tr>
+    <td width="30%" align="center" valign="middle" style="border-right: 2px dashed #2D0B5A;">
+      <img src="https://img.shields.io/badge/Self_Taught_Bob-bc8cff?style=for-the-badge&logo=youtube&logoColor=white" alt="Self Taught Bob" />
+    </td>
+    <td width="70%" valign="top" align="left" style="padding-left: 20px;">
+      <h3 style="color: #bc8cff; margin-top: 0; margin-bottom: 4px;">Content Creator</h3>
+      <b>May 2026 - Present</b>
+      <p style="color: #8b949e; font-size: 0.95em; margin-top: 6px; margin-bottom: 0;">
+        Writing and publishing web development and Git workflow tutorials for developers.
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
