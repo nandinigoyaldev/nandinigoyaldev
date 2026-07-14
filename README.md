@@ -153,38 +153,40 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
 
 <br>
 
-<!-- THEME: LORE & EXPERIENCE CARDS -->
-<h2 align="center">📜 Lore & Experience</h2>
+<!-- THEME: EXPERIENCE & LEADERSHIP TIMELINE -->
+<h2 align="center">💼 Experience & Leadership</h2>
 
-<table align="center" width="95%">
+<table align="center" width="95%" cellpadding="6" cellspacing="0">
   <tr>
-    <!-- Card 1: Community -->
-    <td width="33%" style="background-color: #0d1117; border: 1px solid #E53888; border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h3 align="center" style="color: #E53888; margin-top: 0;">🌱 Community</h3>
-      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-bottom: 15px;">2026 - Present</p>
-      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
-      <ul style="padding-left: 15px; margin: 0; font-size: 0.95em;">
-        <li><b>Founder & Lead</b> @ <i>CDN IGNOU</i><br><span style="font-size: 0.85em; color: #8b949e;">Scaled student developer community and organized workshops/events.</span></li><br>
-        <li><b>Project Admin</b> @ <i>Social Summer of Code</i><br><span style="font-size: 0.85em; color: #8b949e;">Mentored contributors and reviewed pull requests.</span></li>
-      </ul>
+    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
+    <td width="5%" align="center" valign="top"><font color="#E53888">◆</font></td>
+    <td width="75%" valign="top" align="left">
+      <b>Founder & Lead</b> @ <i>CDN IGNOU</i><br>
+      <font color="#8b949e" size="2">Scaled a student developer community, organized technical workshops, hackathons, and developer meetups.</font>
     </td>
-    <!-- Card 2: Open Source & Work -->
-    <td width="33%" style="background-color: #0d1117; border: 1px solid #58a6ff; border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h3 align="center" style="color: #58a6ff; margin-top: 0;">💻 Dev & Work</h3>
-      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-bottom: 15px;">2026 - Present</p>
-      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
-      <ul style="padding-left: 15px; margin: 0; font-size: 0.95em;">
-        <li><b>Open Source Contributor</b> @ <i>GSSoC, Apertre 3.0, Nexus SoC</i><br><span style="font-size: 0.85em; color: #8b949e;">Contributed features, bug fixes, and documentation.</span></li>
-      </ul>
+  </tr>
+  <tr>
+    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
+    <td width="5%" align="center" valign="top"><font color="#58a6ff">◆</font></td>
+    <td width="75%" valign="top" align="left">
+      <b>Project Admin</b> @ <i>Social Summer of Code</i><br>
+      <font color="#8b949e" size="2">Mentoring open-source contributors, managing code reviews, and guiding developers through Git workflows.</font>
     </td>
-    <!-- Card 3: Content Creation -->
-    <td width="33%" style="background-color: #0d1117; border: 1px solid #3fb950; border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h3 align="center" style="color: #3fb950; margin-top: 0;">🎥 Content</h3>
-      <p align="center" style="font-size: 0.9em; color: #8b949e; margin-bottom: 15px;">Creator Journey</p>
-      <hr style="border: 0; border-top: 1px solid #2D0B5A; margin: 10px 0;">
-      <ul style="padding-left: 15px; margin: 0; font-size: 0.95em;">
-        <li><b>Technical Content Creator</b> @ <i>Self Taught Bob</i><br><span style="font-size: 0.85em; color: #8b949e;">Publish project-based web dev & Git tutorials.</span></li>
-      </ul>
+  </tr>
+  <tr>
+    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
+    <td width="5%" align="center" valign="top"><font color="#3fb950">◆</font></td>
+    <td width="75%" valign="top" align="left">
+      <b>Open Source Contributor</b> @ <i>GSSoC, Apertre 3.0, Nexus SoC</i><br>
+      <font color="#8b949e" size="2">Contributed code fixes, features, and documentation across multiple collaborative repositories.</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="right" valign="top"><b>2026 - Present</b></td>
+    <td width="5%" align="center" valign="top"><font color="#bc8cff">◆</font></td>
+    <td width="75%" valign="top" align="left">
+      <b>Technical Content Creator</b> @ <i>Self Taught Bob</i><br>
+      <font color="#8b949e" size="2">Published project-based tutorials covering web development, Git, and open source.</font>
     </td>
   </tr>
 </table>
@@ -193,28 +195,51 @@ I'm a Full Stack Developer, BCA student at IGNOU, and Master Diploma in Computer
   <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" width="50%" />
 </p>
 
-<!-- THEME: KAWAII STICKERS & AWARDS -->
-<h2 align="center">🌟 Loot & Badges (Achievements)</h2>
-<table align="center" width="90%">
-  <tr>
-    <td align="center">
-      <img src="./assets/images/iot.gif" width="70"/><br>
-      <b>IoT Hackathon</b><br>🥈 2nd Place
+<!-- THEME: HONORS & ACHIEVEMENTS LIST -->
+<h2 align="center">🏆 Honors & Achievements</h2>
+<div align="center">
+<table align="center" width="95%" cellpadding="10" cellspacing="0">
+  <tr bgcolor="#0d1117">
+    <td width="12%" align="center" valign="middle">
+      <img src="./assets/images/iot.gif" width="50" />
     </td>
-    <td align="center">
-      <img src="./assets/images/apertre.gif" width="70"/><br>
-      <b>Apertre 3.0</b><br>🏆 Top 25 Contributor
+    <td width="88%" valign="middle" align="left">
+      <b>2nd Place Winner</b> — IoT Hackathon<br>
+      <font color="#8b949e" size="2">Secured second place with AutoBotX, a gesture-based computer vision automation tool.</font>
     </td>
-    <td align="center">
-      <img src="./assets/images/diploma.gif" width="70"/><br>
-      <b>SSoC 2026</b><br>🛡️ Project Admin
+  </tr>
+  <tr><td colspan="2" height="4"></td></tr>
+  <tr bgcolor="#1A1B27">
+    <td width="12%" align="center" valign="middle">
+      <img src="./assets/images/apertre.gif" width="50" />
     </td>
-    <td align="center">
-      <img src="./assets/images/commudle.gif" width="70"/><br>
-      <b>CDN IGNOU</b><br>🚀 Founder
+    <td width="88%" valign="middle" align="left">
+      <b>Top 25 Contributor</b> — Apertre 3.0<br>
+      <font color="#8b949e" size="2">Ranked among the top 25 open-source contributors for making high-impact code and feature additions.</font>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="4"></td></tr>
+  <tr bgcolor="#0d1117">
+    <td width="12%" align="center" valign="middle">
+      <img src="./assets/images/diploma.gif" width="50" />
+    </td>
+    <td width="88%" valign="middle" align="left">
+      <b>Project Admin Selection</b> — Social Summer of Code 2026<br>
+      <font color="#8b949e" size="2">Selected to mentor and guide student open-source contributors on Git development workflows.</font>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="4"></td></tr>
+  <tr bgcolor="#1A1B27">
+    <td width="12%" align="center" valign="middle">
+      <img src="./assets/images/commudle.gif" width="50" />
+    </td>
+    <td width="88%" valign="middle" align="left">
+      <b>Community Founder</b> — CDN IGNOU<br>
+      <font color="#8b949e" size="2">Established and scaled a student tech community to promote software engineering, coding events, and open source.</font>
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
